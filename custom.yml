@@ -1,8 +1,8 @@
 feeds:
   - name: custom
     path: ../feeds_dir/custom
-  - name: NueXini_Packages
-    uri: https://github.com/NueXini/NueXini_Packages.git
+  - name: small-package
+    uri: https://github.com/kenzok8/small-package.git
     branch: main
 packages:
   - default-settings
